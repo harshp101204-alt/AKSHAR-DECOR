@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thank You!</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background: #f9f9f9;
+  }
+  h1 {
+    color: #333;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+  }
+  .review-box {
+    border: 2px solid #ddd;
+    padding: 20px;
+    background: #fff;
+    max-width: 500px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+    font-size: 1.1em;
+  }
+  .button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    background: #4285F4;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s;
+  }
+  .button:hover {
+    background: #3367D6;
+  }
+</style>
+</head>
+<body>
+
+<h1>Thank you for supporting us!</h1>
+
+<div class="review-box">
+  “I had an amazing experience with [AKSHAR DECOR]! The service was professional and the quality was top-notch. Highly recommended!”
+</div>
+
+<a class="button" href="https://g.page/r/CWDqo5NvF-YYEBM/review" target="_blank">Leave a Review</a>
+
+</body>
+</html>
